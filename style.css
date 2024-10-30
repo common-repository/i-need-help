@@ -1,0 +1,31 @@
+#ineedhelp-admin h2 {
+	font-weight: normal;
+}
+
+#ineedhelp-admin h3 {
+	font-size: 1em;
+}
+
+#ineedhelp-admin p.submit {
+	padding: 0;
+	margin: 0;
+}
+
+#ineedhelp-admin input[type="text"] {
+	display: block;
+	margin-bottom: 7px;
+	clear: both;
+}
+
+#ineedhelp-admin .form-table th {
+	width: 0;
+	padding: 0;
+}
+
+#ineedhelp-admin .form-table td {
+	padding: 15px 0;
+}
+
+#ineedhelp-admin .postbox {
+	padding: 5px 20px 20px;
+}
